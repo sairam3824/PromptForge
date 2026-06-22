@@ -1,0 +1,21 @@
+HOW TO RUN PROMPTFORGE
+======================
+
+1. Install
+   pip install -e ".[dev]"
+
+2. Set API key
+   export OPENAI_API_KEY=sk-...
+
+3. Optimize a prompt
+   promptforge optimize --task examples/news_classification/task.py --train examples/news_classification/train.jsonl --output results/best.json
+
+4. Evaluate it
+   promptforge eval --task examples/news_classification/task.py --test examples/news_classification/test.jsonl --prompt-file results/best.json
+
+5. See results
+   promptforge leaderboard
+
+No OpenAI key? Use local Ollama instead:
+   ollama pull qwen2.5:3b
+   ...add to step 3:  --backend ollama --model qwen2.5:3b
