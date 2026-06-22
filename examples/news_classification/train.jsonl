@@ -1,0 +1,25 @@
+{"inputs": {"headline": "Lakers beat Warriors 112-108 in overtime thriller"}, "outputs": {"category": "sports"}}
+{"inputs": {"headline": "Manchester United signs record-breaking deal for striker"}, "outputs": {"category": "sports"}}
+{"inputs": {"headline": "Serena Williams announces retirement from professional tennis"}, "outputs": {"category": "sports"}}
+{"inputs": {"headline": "Super Bowl viewership hits record 130 million"}, "outputs": {"category": "sports"}}
+{"inputs": {"headline": "Olympic swimmer breaks world record at Paris games"}, "outputs": {"category": "sports"}}
+{"inputs": {"headline": "NBA draft: top prospect signs with New York Knicks"}, "outputs": {"category": "sports"}}
+{"inputs": {"headline": "World Cup 2026 host cities announced by FIFA"}, "outputs": {"category": "sports"}}
+{"inputs": {"headline": "Tiger Woods returns to competitive golf after surgery"}, "outputs": {"category": "sports"}}
+{"inputs": {"headline": "Apple releases new M4 chip with AI acceleration"}, "outputs": {"category": "technology"}}
+{"inputs": {"headline": "Google unveils next-generation quantum computer"}, "outputs": {"category": "technology"}}
+{"inputs": {"headline": "OpenAI launches GPT-5 with multimodal capabilities"}, "outputs": {"category": "technology"}}
+{"inputs": {"headline": "Tesla announces full self-driving release across Europe"}, "outputs": {"category": "technology"}}
+{"inputs": {"headline": "Meta's new VR headset outsells Quest 3 in first week"}, "outputs": {"category": "technology"}}
+{"inputs": {"headline": "Microsoft acquires gaming studio for $10 billion"}, "outputs": {"category": "technology"}}
+{"inputs": {"headline": "New AI model passes medical licensing exam with 95% accuracy"}, "outputs": {"category": "technology"}}
+{"inputs": {"headline": "Startup raises $500M for commercial nuclear fusion reactor"}, "outputs": {"category": "technology"}}
+{"inputs": {"headline": "President signs landmark climate bill into law"}, "outputs": {"category": "politics"}}
+{"inputs": {"headline": "Senate votes to increase defense spending by 15%"}, "outputs": {"category": "politics"}}
+{"inputs": {"headline": "UN Security Council meets on North Korea nuclear talks"}, "outputs": {"category": "politics"}}
+{"inputs": {"headline": "EU proposes sweeping AI regulation framework"}, "outputs": {"category": "politics"}}
+{"inputs": {"headline": "Prime Minister faces no-confidence vote in parliament"}, "outputs": {"category": "politics"}}
+{"inputs": {"headline": "Supreme Court rules on landmark voting rights case"}, "outputs": {"category": "politics"}}
+{"inputs": {"headline": "G7 summit focuses on global economic stability"}, "outputs": {"category": "politics"}}
+{"inputs": {"headline": "Congress passes $2 trillion infrastructure package"}, "outputs": {"category": "politics"}}
+{"inputs": {"headline": "NATO expands membership with two new member nations"}, "outputs": {"category": "politics"}}

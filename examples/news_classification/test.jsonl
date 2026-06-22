@@ -1,0 +1,10 @@
+{"inputs": {"headline": "Patriots win AFC championship game in dramatic comeback"}, "outputs": {"category": "sports"}}
+{"inputs": {"headline": "Lewis Hamilton wins record 8th Formula 1 championship"}, "outputs": {"category": "sports"}}
+{"inputs": {"headline": "US women's soccer team wins World Cup for fifth time"}, "outputs": {"category": "sports"}}
+{"inputs": {"headline": "LeBron James scores 50 points to become all-time scoring leader"}, "outputs": {"category": "sports"}}
+{"inputs": {"headline": "Apple iPhone 17 features foldable screen and satellite messaging"}, "outputs": {"category": "technology"}}
+{"inputs": {"headline": "Amazon launches fully automated AI-powered grocery stores"}, "outputs": {"category": "technology"}}
+{"inputs": {"headline": "SpaceX successfully lands crewed rocket on Mars surface"}, "outputs": {"category": "technology"}}
+{"inputs": {"headline": "Presidential candidates clash in heated primetime debate"}, "outputs": {"category": "politics"}}
+{"inputs": {"headline": "Congress approves bipartisan immigration reform legislation"}, "outputs": {"category": "politics"}}
+{"inputs": {"headline": "Secretary of State makes emergency visit to Ukraine amid conflict"}, "outputs": {"category": "politics"}}
