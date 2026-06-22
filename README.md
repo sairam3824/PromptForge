@@ -274,4 +274,4 @@ pytest -v
 
 ## License
 
-[MIT](LICENSE) © 2026 Sai Rama Linga Reddy Maruri
+[MIT](LICENSE) 
